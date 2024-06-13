@@ -1,0 +1,20 @@
+body {
+    background-color:rgb(95, 92, 95);
+}
+h1 {
+    color:white"
+    }
+
+div {
+    background-color:teal;
+border-style: solid;
+border-color: black; 
+border-radius: 5px;
+}
+.shadow-text {
+text-shadow: gray 1px 1px;
+}
+
+large-paragraph {
+    font-size:30px;
+}

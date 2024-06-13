@@ -1,0 +1,20 @@
+table {
+    text:bold
+    border-collapse: collapse;
+    width: 100%
+    
+    
+
+    }
+
+    th,td {
+padding: 8px;
+text-align:center;
+border-bottom: 1px, solid, black 
+
+    }
+
+    tr:nth-child(even) {
+background-color:rgba(180, 180, 178, 0.607)
+
+    }
